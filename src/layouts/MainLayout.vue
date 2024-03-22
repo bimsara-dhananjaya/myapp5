@@ -63,6 +63,12 @@ const linksList = [
     icon: "call",
     link: "/contact",
   },
+  {
+    title: "Image",
+    caption: "Image Class",
+    icon: "image",
+    link: "/images",
+  },
   // {
   //   title: "Discord Chat Channel",
   //   caption: "chat.quasar.dev",
